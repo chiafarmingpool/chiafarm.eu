@@ -4,21 +4,21 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Rohan Kokkula | Portfolio",
+  title: "Artem Korolev | Portfolio",
   description:
     "A Data Science practitioner who thrives to leverage startups with AI based solutions with a blend of UI/UX",
   og: {
-    title: "Rohan Portfolio",
+    title: "Artem Portfolio",
     type: "website",
-    url: "http://rohankokkula.ml/",
+    url: "http://Artemkokkula.ml/",
   },
 };
 
 //Home Page
 const greeting = {
   title: "Namaste!",
-  sub: "Rohan Kokkula",
-  logo_name: "Rohan Kokkula",
+  sub: "Artem Korolev",
+  logo_name: "Artem Korolev",
   resumeLink: "",
 };
 
@@ -31,7 +31,7 @@ const competitiveSites = {
       style: {
         color: "white",
       },
-      profileLink: "https://github.com/rohankokkula",
+      profileLink: "https://github.com/Artemkokkula",
     },
     {
       siteName: "HackerRank",
@@ -39,7 +39,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/rohankokkula01",
+      profileLink: "https://www.hackerrank.com/Artemkokkula01",
     },
     {
       siteName: "Kaggle",
@@ -47,7 +47,7 @@ const competitiveSites = {
       style: {
         color: "#20BEFF",
       },
-      profileLink: "https://www.kaggle.com/rohan0301",
+      profileLink: "https://www.kaggle.com/Artem0301",
     },
     {
       siteName: "Hackerearth",
@@ -55,7 +55,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@rohankokkula",
+      profileLink: "https://www.hackerearth.com/@Artemkokkula",
     },
     {
       siteName: "LinkedIn",
@@ -63,7 +63,7 @@ const competitiveSites = {
       style: {
         color: "#0077b5",
       },
-      profileLink: "https://www.linkedin.com/in/rohankokkula/",
+      profileLink: "https://www.linkedin.com/in/Artemkokkula/",
     },
     {
       siteName: "HashNode",
@@ -285,7 +285,7 @@ const projectcards = {
         },
       ],
       link: "https://teath.herokuapp.com ",
-      code: "https://github.com/rohankokkula/TEATH",
+      code: "https://github.com/Artemkokkula/TEATH",
       linkcolor: "white",
     },
 
@@ -348,7 +348,7 @@ const projectcards = {
         },
       ],
       link: "https://neuralviz.herokuapp.com/",
-      code: "https://github.com/rohankokkula/neuralviz",
+      code: "https://github.com/Artemkokkula/neuralviz",
       linkcolor: "white",
     },
     {
@@ -414,7 +414,7 @@ const projectcards = {
         },
       ],
       link: "https://newsearcher.herokuapp.com/",
-      code: "https://github.com/rohankokkula/Newsearcher",
+      code: "https://github.com/Artemkokkula/Newsearcher",
       linkcolor: "white",
     },
     {
@@ -441,7 +441,7 @@ const projectcards = {
         },
       ],
       link: "https://www.youtube.com/watch?v=2vk9lQuX_1Q",
-      code: "https://github.com/rohankokkula/Actiweight",
+      code: "https://github.com/Artemkokkula/Actiweight",
       linkcolor: "white",
     },
   ],
@@ -586,7 +586,7 @@ const certifications = {
       title: "Problem solving",
       subtitle: "HackerRank",
       logo_path: "problem-01.png",
-      certificate_link: "https://www.hackerrank.com/rohankokkula",
+      certificate_link: "https://www.hackerrank.com/Artemkokkula",
       alt_name: "HackerRank",
       color_code: "#000000",
     },
@@ -594,7 +594,7 @@ const certifications = {
       title: "Python",
       subtitle: "HackerRank",
       logo_path: "python-01.png",
-      certificate_link: "https://www.hackerrank.com/rohankokkula",
+      certificate_link: "https://www.hackerrank.com/Artemkokkula",
       alt_name: "HackerRank",
       color_code: "#000000",
     },
@@ -695,14 +695,14 @@ const contactPageData = {
 const socialMediaLinks = [
   {
     name: "Github",
-    link: "https://www.linkedin.com/in/rohankokkula/",
+    link: "https://www.linkedin.com/in/Artemkokkula/",
     iconifyClassname: "simple-icons:hackerrank",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/rohankokkula/",
+    link: "https://www.linkedin.com/in/Artemkokkula/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -714,13 +714,13 @@ const socialMediaLinks = [
   },
   {
     name: "Gmail",
-    link: "mailto:rohankokkula01@gmail.com",
+    link: "mailto:Artemkokkula01@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/soberohan/",
+    link: "https://www.instagram.com/sobeArtem/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },

@@ -2,7 +2,7 @@
   "private": true,
   "name": "chiafarm-website",
   "version": "0.2.0-alpha.2",
-  "homepage": ".",
+  "homepage": "/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
