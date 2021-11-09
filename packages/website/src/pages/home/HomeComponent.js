@@ -9,11 +9,11 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <Header theme={this.props.theme} />
-        <Greeting theme={this.props.theme} />
-        <Skills theme={this.props.theme} />
-        <Footer theme={this.props.theme} />
-        <TopButton theme={this.props.theme} />
+        <img style={{display: "block"}} width="100%" src={require(`../../assets/design/197499459_753257925348887_9065983798484886948_n.png`)} />
+        <img style={{display: "block"}} width="100%" src={require(`../../assets/design/198709469_2993284834282728_5567266784561756959_n.png`)} />
+        <img style={{display: "block"}} width="100%" src={require(`../../assets/design/198829890_2979752505681533_7593360201138606489_n.png`)} />
+        <img style={{display: "block"}} width="100%" src={require(`../../assets/design/199637576_440337583986891_3187947300306788917_n.png`)} />
+        <img style={{display: "block"}} width="100%" src={require(`../../assets/design/200087697_328336922091626_941398468522586669_n.png`)} />
       </div>
     );
   }
