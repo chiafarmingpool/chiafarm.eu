@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0-alpha.3 (2021-11-09)
+
+
+### Bug Fixes
+
+* **CI:** don't ask to publish ([ac9a45b](https://github.com/chiafarmingpool/chiafarm.eu/commit/ac9a45b9be7a02e69dad5ca7f5f3bf1e8e5b21ef))
+
+
+
+
+
 # [0.2.0-alpha.2](https://github.com/chiafarmingpool/chiafarm.eu/compare/chiafarm-website@0.2.0-alpha.1...chiafarm-website@0.2.0-alpha.2) (2021-11-09)
 
 
