@@ -26,6 +26,8 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
+    - run: git config --global user.email "artkor@live.ru"
+    - run: git config --global user.name "GitHub Actions"
     - run: npm ci
     - run: npx lerna bootstrap
     - run: npx lerna run build
