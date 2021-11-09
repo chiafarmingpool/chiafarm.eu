@@ -20,7 +20,7 @@ export default class Main extends Component {
     if (settings.isSplash) {
       return (
         <div>
-          <Router basename="/" history={history}>
+          <Router basename="/chiafarm.eu/" history={history}>
             <Switch>
               <Route
                 path="/"
