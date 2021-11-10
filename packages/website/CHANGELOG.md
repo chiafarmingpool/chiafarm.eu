@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0-alpha.8 (2021-11-10)
+
+
+### Reverts
+
+* Revert "major: changing whole page look" ([3607d5c](https://github.com/chiafarmingpool/chiafarm.eu/commit/3607d5c867b9069c4c21d705ad3ed9532f851e94))
+
+
+
+
+
 # 0.2.0-alpha.7 (2021-11-10)
 
 **Note:** Version bump only for package chiafarm-website
