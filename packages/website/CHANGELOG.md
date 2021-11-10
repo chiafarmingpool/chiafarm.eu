@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0-alpha.4 (2021-11-10)
+
+
+### Bug Fixes
+
+* **website:** code formatting ([edd9add](https://github.com/chiafarmingpool/chiafarm.eu/commit/edd9addf313e4d1ecdedfaf78b0cc6eb53a04519))
+
+
+
+
+
 # 0.2.0-alpha.3 (2021-11-09)
 
 
