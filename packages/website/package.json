@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "chiafarm-website",
-  "version": "0.2.0-alpha.11",
+  "version": "0.2.0-alpha.12",
   "homepage": "/",
   "scripts": {
     "build": "react-scripts build",

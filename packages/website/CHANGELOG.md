@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0-alpha.12 (2021-11-10)
+
+
+### Features
+
+* disable splash screen ([7e42ed5](https://github.com/chiafarmingpool/chiafarm.eu/commit/7e42ed58d508b0344b9866eca9569a2ba750a6a6))
+
+
+
+
+
 # 0.2.0-alpha.11 (2021-11-10)
 
 **Note:** Version bump only for package chiafarm-website
