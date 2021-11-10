@@ -15,6 +15,7 @@ class Home extends Component {
   render() {
     return (
       <div>
+        <h1>Hello</h1>
         <img alt="design" style={DesignStyles} width="100%" src={require(`../../assets/design/197499459_753257925348887_9065983798484886948_n.png`)} />
         <img alt="design" style={DesignStyles} width="100%" src={require(`../../assets/design/198709469_2993284834282728_5567266784561756959_n.png`)} />
         <img alt="design" style={DesignStyles} width="100%" src={require(`../../assets/design/198829890_2979752505681533_7593360201138606489_n.png`)} />
