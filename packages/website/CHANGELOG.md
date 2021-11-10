@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0-alpha.10 (2021-11-10)
+
+
+### Reverts
+
+* Revert "bugfix: got interesting idea about to bypass GitHub Pages url logic" ([aeb01c4](https://github.com/chiafarmingpool/chiafarm.eu/commit/aeb01c4f641ae50cb04f79d9b015078e79de4a73))
+
+
+
+
+
 # 0.2.0-alpha.9 (2021-11-10)
 
 **Note:** Version bump only for package chiafarm-website
